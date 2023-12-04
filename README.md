@@ -28,6 +28,8 @@ Day wise Customer Interaction
 A Comparison on Interactions' Intent for an Order
 
 
+![image](https://github.com/REPANAJYOTHIPRAKASH629/Kulturehire_excel_dashboard/assets/98946604/e0116724-563e-4d32-b1f1-e6e94f69c531)
+
 
 
 **Finance Dashboard**
@@ -51,6 +53,8 @@ What is the number of sold products for 300 to 500, 500 to 700, 700 to 900, 900 
 A comparison for each product's sales value and their average prices
 
 
+![image](https://github.com/REPANAJYOTHIPRAKASH629/Kulturehire_excel_dashboard/assets/98946604/c8d184b3-ff0b-4af7-8bf0-1effc131451f)
+
 
 
 **Order Fulfillment Dashboard**
@@ -73,5 +77,7 @@ Trend of Revenue Generated for Each Product
 
 Multiple Views for Online and Offline orders (using Slicers)
 
+
+![image](https://github.com/REPANAJYOTHIPRAKASH629/Kulturehire_excel_dashboard/assets/98946604/ba7087f2-0a0b-4eeb-8558-e689a9b119ab)
 
 

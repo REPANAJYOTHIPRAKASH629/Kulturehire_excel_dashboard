@@ -4,7 +4,7 @@
 
 **Customer Service Dashboard**
 
-<ol>Include Every Agent's Average Customer Satisfaction
+Include Every Agent's Average Customer Satisfaction
   
 Include Every Agent's No of Interactions with customers
 
@@ -16,12 +16,12 @@ Day wise Customer Satisfaction
 
 Day wise Customer Interaction
 
-A Comparison on Interactions' Intent for an Order</ol>
+A Comparison on Interactions' Intent for an Order
 
 
 **Finance Dashboard**
 
-<ol>Find the Overall Sales value for Each Day
+Find the Overall Sales value for Each Day
   
 Find the Average Sales Value for Each Day
 
@@ -31,13 +31,13 @@ What is the Sales Amount for 300 to 500, 500 to 700, 700 to 900, 900 to 1100 and
 
 What is the number of sold products for 300 to 500, 500 to 700, 700 to 900, 900 to 1100 and 1100 to 1300 rupees buckets
 
-A comparison for each product's sales value and their average prices</ol>
+A comparison for each product's sales value and their average prices
 
 
   
 **Order Fulfillment Dashboard**
 
-<ol>Total Orders, Total Revenue, Average Revenue, Average Discount Given
+Total Orders, Total Revenue, Average Revenue, Average Discount Given
   
 Most Ordered Products
 
@@ -47,7 +47,7 @@ Trend of Revenue Generated for each day
 
 Trend of Revenue Generated for Each Product
 
-Multiple Views for Online and Offline orders (using Slicers)</ol>
+Multiple Views for Online and Offline orders (using Slicers)
 
 
 

@@ -3,7 +3,7 @@
 
 **Below questions has done in above excel file**
 
-
+<br>
 **Customer Service Dashboard**
 
 
@@ -29,7 +29,7 @@ A Comparison on Interactions' Intent for an Order
 
 
 
-
+<br>
 **Finance Dashboard**
 
 
@@ -52,7 +52,7 @@ A comparison for each product's sales value and their average prices
 
 
 
-  
+  <br>
 **Order Fulfillment Dashboard**
 
 

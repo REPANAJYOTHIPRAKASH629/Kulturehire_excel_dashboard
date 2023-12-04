@@ -1,6 +1,6 @@
-# Kulturehire_excel_dashboard
+## Kulturehire_excel_dashboard
 
-**Below question has done in excel file**
+**Below questions has done in above excel file**
 
 **Customer Service Dashboard**
 
